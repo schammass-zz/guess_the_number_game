@@ -1,9 +1,9 @@
 # guess the number game
 import random
 
-print("Welcome to guess the number!")
-print("You have 10 tries to guess the correct number!")
-print("The range of numbers will be from 0-10")
+print("**** WELCOME TO GUESS THE NUMBER !!!! ****")
+print("**** You have 3 tries to guess the correct number! ****")
+print("**** The range of numbers will be from 0-10 ****")
 
 # variables to store winning number, user guess and number of tries
 number = random.randint(0, 10)
